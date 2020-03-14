@@ -3,7 +3,7 @@
 #include <windows.h>
 #include <vector>
 #include "platforms.h"
-#include "Character.h"
+#include "Character.h" 
 
 
 //	if changing jump there are searchable values needing change, and also isOnPlatform

@@ -1,9 +1,10 @@
 #pragma once
+#include "platforms.h"
 #include <vector>
 #include "platforms.h"
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
-#include "platforms.h"
+
 #include <windows.h>
 
 class Character
